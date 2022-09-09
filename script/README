@@ -1,2 +1,2 @@
 prerequisite for this script is installing winget to properly function to install applications.
-You install winget form the microsoft Git: https://github.com/microsoft/winget-cli
+You can install winget form the microsoft Git: https://github.com/microsoft/winget-cli
